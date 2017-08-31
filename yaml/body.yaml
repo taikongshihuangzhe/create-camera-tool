@@ -1,0 +1,1599 @@
+Manufacturer A:
+  A XT:
+    lenses: [1,2,3,4,5,6]
+    settings:
+      HD 16:9:
+        film_back:
+          width: 23.76
+          height: 13.26
+        image_size:
+          width: 1920
+          height: 1080
+      2K 16:9:
+        film_back:
+          width: 23.66
+          height: 13.24
+        image_size:
+          width: 2048
+          height: 1152
+      2K 4:3:
+        film_back:
+          width: 23.66
+          height: 17.75
+        image_size:
+          width: 2048
+          height: 1536
+      3.2K 16:9:
+        film_back:
+          width: 26.1
+          height: 14.67
+        image_size:
+          width: 3200
+          height: 1782
+      RAW 2.8K:
+        film_back:
+          width: 23.76
+          height: 13.26
+        image_size:
+          width: 2880
+          height: 1620
+      RAW 4:3 2.8K:
+        film_back:
+          width: 23.76
+          height: 17.82
+        image_size:
+          width: 2880
+          height: 2160
+      RAW 6:5 (aka 4:3 crop) 2.6K:
+        film_back:
+          width: 21.27
+          height: 17.82
+        image_size:
+          width: 2578
+          height: 2160
+      RAW OG:
+        film_back:
+          width: 28.25
+          height: 18.17
+        image_size:
+          width: 3414
+          height: 2198
+  A SXT:
+    lenses: [1,2,3,4,5,6]
+    settings:
+      HD 16:9:
+        film_back:
+          width: 23.76
+          height: 13.26
+        image_size:
+          width: 1920
+          height: 1080
+      2K:
+        film_back:
+          width: 23.76
+          height: 13.26
+        image_size:
+          width: 2048
+          height: 1152
+      3.2K:
+        film_back:
+          width: 26.4
+          height: 14.85
+        image_size:
+          width: 3200
+          height: 1800
+      4K UHD:
+        film_back:
+          width: 26.4
+          height: 14.85
+        image_size:
+          width: 3840
+          height: 2160
+      RAW 2.8K:
+        film_back:
+          width: 23.76
+          height: 13.26
+        image_size:
+          width: 2880
+          height: 1620
+      RAW 3.2K:
+        film_back:
+          width: 26.14
+          height: 14.7
+        image_size:
+          width: 3168
+          height: 1782
+      2.8K:
+        film_back:
+          width: 23.76
+          height: 17.82
+        image_size:
+          width: 2880
+          height: 2160
+      6:5 2K:
+        film_back:
+          width: 21.12
+          height: 17.7
+        image_size:
+          width: 2048
+          height: 858
+      6:5 4K:
+        film_back:
+          width: 21.12
+          height: 17.7
+        image_size:
+          width: 4096
+          height: 1716
+      6:5 RAW 2.6K:
+        film_back:
+          width: 21.38
+          height: 17.82
+        image_size:
+          width: 2578
+          height: 2160
+      Open Gate 3.4K:
+        film_back:
+          width: 28.25
+          height: 18.17
+        image_size:
+          width: 3414
+          height: 2198
+      Open Gate 4K:
+        film_back:
+          width: 28.17
+          height: 28.17
+        image_size:
+          width: 4096
+          height: 2636
+  A Mini:
+    lenses: [1,2,3,4,5,6]
+    settings:
+      S16 HD:
+        film_back:
+          width: 13.2
+          height: 7.425
+        image_size:
+          width: 1920
+          height: 1080
+      HD:
+        film_back:
+          width: 23.76
+          height: 13.26
+        image_size:
+          width: 1920
+          height: 1080
+      HD DS:
+        film_back:
+          width: 15.84
+          height: 17.82
+        image_size:
+          width: 1920
+          height: 1080
+      2K:
+        film_back:
+          width: 23.65
+          height: 13.24
+        image_size:
+          width: 2048
+          height: 1152
+      2.39:1 2K DS:
+        film_back:
+          width: 21.12
+          height: 17.7
+        image_size:
+          width: 2048
+          height: 858
+      4:3 2.8K:
+        film_back:
+          width: 23.76
+          height: 17.82
+        image_size:
+          width: 2944
+          height: 2160
+      3.2K:
+        film_back:
+          width: 26.4
+          height: 14.85
+        image_size:
+          width: 3200
+          height: 2160
+      4K UHD:
+        film_back:
+          width: 26.4
+          height: 14.85
+        image_size:
+          width: 3840
+          height: 2160
+      16:9 HD DS:
+        film_back:
+          width: 15.84
+          height: 17.82
+        image_size:
+          width: 1920
+          height: 2160
+      2.39:1 2K DS:
+        film_back:
+          width: 21.12
+          height: 17.7
+        image_size:
+          width: 2560
+          height: 2145
+      2.8K:
+        film_back:
+          width: 23.76
+          height: 17.82
+        image_size:
+          width: 2880
+          height: 1620
+      4:3 2.8K:
+        film_back:
+          width: 23.76
+          height: 17.82
+        image_size:
+          width: 2880
+          height: 2160
+      Open Gate:
+        film_back:
+          width: 28.25
+          height: 18.17
+        image_size:
+          width: 3424
+          height: 2202
+  A 65:
+    lenses: [1,2,3,4,5,6]
+    settings:
+      Open Gate:
+        film_back:
+          width: 54.12
+          height: 25.58
+        image_size:
+          width: 6560
+          height: 3100
+      Open Gate 16:9 (1.78):
+        film_back:
+          width: 42.24
+          height: 23.76
+        image_size:
+          width: 5120
+          height: 2880
+      Open Gate 3:2 (1.5):
+        film_back:
+          width: 35.64
+          height: 23.76
+        image_size:
+          width: 4320
+          height: 2880
+Manufacturer B:
+  B D:
+    lenses: [1,2,3,4,5,6]
+    settings:
+      8K FF:
+        film_back:
+          width: 40.96
+          height: 21.60
+        image_size:
+          width: 8192
+          height: 4320
+      8K 2:1:
+        film_back:
+          width: 40.96
+          height: 20.48
+        image_size:
+          width: 8192
+          height: 4096
+      8K WS:
+        film_back:
+          width: 40.96
+          height: 17.28
+        image_size:
+          width: 8192
+          height: 3456
+      8K HD:
+        film_back:
+          width: 38.40
+          height: 21.60
+        image_size:
+          width: 7680
+          height: 4320
+      8K 14:9:
+        film_back:
+          width: 33.60
+          height: 21.60
+        image_size:
+          width: 6720
+          height: 4320
+      8K 3:2:
+        film_back:
+          width: 32.40
+          height: 21.60
+        image_size:
+          width: 6480
+          height: 4320
+      8K 6:5:
+        film_back:
+          width: 25.92
+          height: 21.60
+        image_size:
+          width: 5184
+          height: 4320
+      8K 4:1:
+        film_back:
+          width: 40.96
+          height: 10.24
+        image_size:
+          width: 8192
+          height: 2048
+      8K 8:1:
+        film_back:
+          width: 40.96
+          height: 5.12
+        image_size:
+          width: 8192
+          height: 1024
+      7.5K FF:
+        film_back:
+          width: 38.40
+          height: 20.40
+        image_size:
+          width: 7680
+          height: 4080
+      7.5K 2:1:
+        film_back:
+          width: 38.40
+          height: 19.20
+        image_size:
+          width: 7680
+          height: 3840
+      7.5K WS:
+        film_back:
+          width: 38.40
+          height: 16.20
+        image_size:
+          width: 7680
+          height: 3240
+      7.5K HD:
+        film_back:
+          width: 36.48
+          height: 20.52
+        image_size:
+          width: 7296
+          height: 4104
+      7.5K 4:1:
+        film_back:
+          width: 38.40
+          height: 9.60
+        image_size:
+          width: 7680
+          height: 1920
+      7.5K 8:1:
+        film_back:
+          width: 38.40
+          height: 4.80
+        image_size:
+          width: 7680
+          height: 960
+      7K FF:
+        film_back:
+          width: 35.84
+          height: 18.90
+        image_size:
+          width: 7168
+          height: 3780
+      7K 2:1:
+        film_back:
+          width: 35.84
+          height: 17.92
+        image_size:
+          width: 7168
+          height: 3584
+      7K WS:
+        film_back:
+          width: 35.84
+          height: 15.12
+        image_size:
+          width: 7168
+          height: 3024
+      7K HD:
+        film_back:
+          width: 33.60
+          height: 18.90
+        image_size:
+          width: 6720
+          height: 3780
+      7K 6:5:
+        film_back:
+          width: 22.68
+          height: 18.90
+        image_size:
+          width: 4536
+          height: 3780
+      7K 4:1:
+        film_back:
+          width: 35.84
+          height: 8.96
+        image_size:
+          width: 7168
+          height: 1792
+      7K 8:1:
+        film_back:
+          width: 35.84
+          height: 4.48
+        image_size:
+          width: 7168
+          height: 896
+      6.5K FF:
+        film_back:
+          width: 33.28
+          height: 17.68
+        image_size:
+          width: 6656
+          height: 3536
+      6.5K 2:1:
+        film_back:
+          width: 33.28
+          height: 16.64
+        image_size:
+          width: 6656
+          height: 3328
+      6.5K WS:
+        film_back:
+          width: 33.28
+          height: 14.04
+        image_size:
+          width: 6656
+          height: 2808
+      6.5K HD:
+        film_back:
+          width: 30.72
+          height: 17.28
+        image_size:
+          width: 6144
+          height: 3456
+      6.5K 4:1:
+        film_back:
+          width: 33.28
+          height: 8.32
+        image_size:
+          width: 6656
+          height: 1664
+      6.5K 8:1:
+        film_back:
+          width: 33.28
+          height: 4.16
+        image_size:
+          width: 6656
+          height: 832
+      6K FF:
+        film_back:
+          width: 30.72
+          height: 16.20
+        image_size:
+          width: 6144
+          height: 3240
+      6K 2:1:
+        film_back:
+          width: 30.72
+          height: 15.36
+        image_size:
+          width: 6144
+          height: 3072
+      6K WS:
+        film_back:
+          width: 30.72
+          height: 12.96
+        image_size:
+          width: 6144
+          height: 2592
+      6K HD:
+        film_back:
+          width: 28.80
+          height: 16.20
+        image_size:
+          width: 5760
+          height: 3240
+      6K 3:2:
+        film_back:
+          width: 28.80
+          height: 19.20
+        image_size:
+          width: 5760
+          height: 3840
+      6K 4:3:
+        film_back:
+          width: 28.80
+          height: 21.60
+        image_size:
+          width: 5760
+          height: 4320
+      6K 6:5:
+        film_back:
+          width: 19.44
+          height: 16.20
+        image_size:
+          width: 3888
+          height: 3240
+      6K 4:1:
+        film_back:
+          width: 30.72
+          height: 7.68
+        image_size:
+          width: 6144
+          height: 1536
+      6K 8:1:
+        film_back:
+          width: 30.72
+          height: 3.84
+        image_size:
+          width: 6144
+          height: 768
+      5.5K FF:
+        film_back:
+          width: 28.16
+          height: 14.74
+        image_size:
+          width: 5632
+          height: 2948
+      5.5K 2:1:
+        film_back:
+          width: 28.16
+          height: 14.08
+        image_size:
+          width: 5632
+          height: 2816
+      5.5K WS:
+        film_back:
+          width: 28.16
+          height: 11.88
+        image_size:
+          width: 5632
+          height: 2376
+      5.5K HD:
+        film_back:
+          width: 26.88
+          height: 15.12
+        image_size:
+          width: 5376
+          height: 3024
+      5.5K 4:1:
+        film_back:
+          width: 28.16
+          height: 7.04
+        image_size:
+          width: 5632
+          height: 1408
+      5.5K 8:1:
+        film_back:
+          width: 28.16
+          height: 3.52
+        image_size:
+          width: 5632
+          height: 704
+      5K FF:
+        film_back:
+          width: 25.60
+          height: 13.50
+        image_size:
+          width: 5120
+          height: 2700
+      5K 2:1:
+        film_back:
+          width: 25.60
+          height: 12.80
+        image_size:
+          width: 5120
+          height: 2560
+      5K WS:
+        film_back:
+          width: 25.60
+          height: 10.80
+        image_size:
+          width: 5120
+          height: 2160
+      5K HD:
+        film_back:
+          width: 24.00
+          height: 13.50
+        image_size:
+          width: 4800
+          height: 2700
+      5K 6:5:
+        film_back:
+          width: 16.20
+          height: 13.50
+        image_size:
+          width: 3240
+          height: 2700
+      5K 4:1:
+        film_back:
+          width: 25.60
+          height: 6.40
+        image_size:
+          width: 5120
+          height: 1280
+      5K 8:1:
+        film_back:
+          width: 25.60
+          height: 3.20
+        image_size:
+          width: 5120
+          height: 640
+      4.5K FF:
+        film_back:
+          width: 23.04
+          height: 12.06
+        image_size:
+          width: 4608
+          height: 2412
+      4.5K 2:1:
+        film_back:
+          width: 23.04
+          height: 11.52
+        image_size:
+          width: 4608
+          height: 2304
+      4.5K WS:
+        film_back:
+          width: 23.04
+          height: 9.72
+        image_size:
+          width: 4608
+          height: 1944
+      4.5K HD:
+        film_back:
+          width: 21.60
+          height: 11.88
+        image_size:
+          width: 4320
+          height: 2376
+      4.5K 3:2:
+        film_back:
+          width: 21.60
+          height: 14.40
+        image_size:
+          width: 4320
+          height: 2880
+      4.5K 4:3:
+        film_back:
+          width: 21.60
+          height: 16.20
+        image_size:
+          width: 4320
+          height: 3240
+      4.5K 5:4:
+        film_back:
+          width: 21.60
+          height: 17.28
+        image_size:
+          width: 4320
+          height: 3456
+      4.5K 4:1:
+        film_back:
+          width: 23.04
+          height: 5.76
+        image_size:
+          width: 4608
+          height: 1152
+      4.5K 8:1:
+        film_back:
+          width: 23.04
+          height: 2.88
+        image_size:
+          width: 4608
+          height: 576
+      4K FF:
+        film_back:
+          width: 20.48
+          height: 10.80
+        image_size:
+          width: 4096
+          height: 2160
+      4K 2:1:
+        film_back:
+          width: 20.48
+          height: 10.24
+        image_size:
+          width: 4096
+          height: 2048
+      4K WS:
+        film_back:
+          width: 20.48
+          height: 8.64
+        image_size:
+          width: 4096
+          height: 1728
+      4K HD:
+        film_back:
+          width: 19.20
+          height: 10.80
+        image_size:
+          width: 3840
+          height: 2160
+      4K 3:2:
+        film_back:
+          width: 19.20
+          height: 12.80
+        image_size:
+          width: 3840
+          height: 2560
+      4K 4:3:
+        film_back:
+          width: 19.20
+          height: 14.40
+        image_size:
+          width: 3840
+          height: 2880
+      4K 5:4:
+        film_back:
+          width: 19.20
+          height: 15.36
+        image_size:
+          width: 3840
+          height: 3072
+      4K 6:5:
+        film_back:
+          width: 12.96
+          height: 10.80
+        image_size:
+          width: 2592
+          height: 2160
+      4K 4:1:
+        film_back:
+          width: 20.48
+          height: 5.12
+        image_size:
+          width: 4096
+          height: 1024
+      4K 8:1:
+        film_back:
+          width: 20.48
+          height: 2.56
+        image_size:
+          width: 4096
+          height: 512
+      4K 1:1:
+        film_back:
+          width: 21.60
+          height: 21.60
+        image_size:
+          width: 4320
+          height: 4320
+      3.5K FF:
+        film_back:
+          width: 17.92
+          height: 9.38
+        image_size:
+          width: 3584
+          height: 1876
+      3.5K 2:1:
+        film_back:
+          width: 17.92
+          height: 8.96
+        image_size:
+          width: 3584
+          height: 1792
+      3.5K WS:
+        film_back:
+          width: 17.92
+          height: 7.56
+        image_size:
+          width: 3584
+          height: 1512
+      3.5K HD:
+        film_back:
+          width: 17.28
+          height: 9.72
+        image_size:
+          width: 3456
+          height: 1944
+      3.5K 3:2:
+        film_back:
+          width: 16.80
+          height: 11.20
+        image_size:
+          width: 3360
+          height: 2240
+      3.5K 4:3:
+        film_back:
+          width: 16.80
+          height: 12.60
+        image_size:
+          width: 3360
+          height: 2520
+      3.5K 5:4:
+        film_back:
+          width: 16.80
+          height: 13.44
+        image_size:
+          width: 3360
+          height: 2688
+      3.5K 4:1:
+        film_back:
+          width: 17.92
+          height: 4.48
+        image_size:
+          width: 3584
+          height: 896
+      3.5K 8:1:
+        film_back:
+          width: 17.92
+          height: 2.24
+        image_size:
+          width: 3584
+          height: 448
+      3K FF:
+        film_back:
+          width: 15.36
+          height: 8.10
+        image_size:
+          width: 3072
+          height: 1620
+      3K 2:1:
+        film_back:
+          width: 15.36
+          height: 7.68
+        image_size:
+          width: 3072
+          height: 1536
+      3K WS:
+        film_back:
+          width: 15.36
+          height: 6.48
+        image_size:
+          width: 3072
+          height: 1296
+      3K HD:
+        film_back:
+          width: 14.40
+          height: 8.10
+        image_size:
+          width: 2880
+          height: 1620
+      3K 3:2:
+        film_back:
+          width: 14.40
+          height: 9.60
+        image_size:
+          width: 2880
+          height: 1920
+      3K 4:3:
+        film_back:
+          width: 14.40
+          height: 10.80
+        image_size:
+          width: 2880
+          height: 2160
+      3K 5:4:
+        film_back:
+          width: 14.40
+          height: 11.52
+        image_size:
+          width: 2880
+          height: 2304
+      3K 6:5:
+        film_back:
+          width: 9.72
+          height: 8.10
+        image_size:
+          width: 1944
+          height: 1620
+      3K 4:1:
+        film_back:
+          width: 15.36
+          height: 3.84
+        image_size:
+          width: 3072
+          height: 768
+      3K 8:1:
+        film_back:
+          width: 15.36
+          height: 1.92
+        image_size:
+          width: 3072
+          height: 384
+      2.5K FF:
+        film_back:
+          width: 12.80
+          height: 6.70
+        image_size:
+          width: 2560
+          height: 1340
+      2.5K 2:1:
+        film_back:
+          width: 12.80
+          height: 6.40
+        image_size:
+          width: 2560
+          height: 1280
+      2.5K WS:
+        film_back:
+          width: 12.80
+          height: 5.40
+        image_size:
+          width: 2560
+          height: 1080
+      2.5K HD:
+        film_back:
+          width: 11.52
+          height: 6.48
+        image_size:
+          width: 2304
+          height: 1296
+      2.5K 3:2:
+        film_back:
+          width: 12.00
+          height: 8.00
+        image_size:
+          width: 2400
+          height: 1600
+      2.5K 4:3:
+        film_back:
+          width: 12.00
+          height: 9.00
+        image_size:
+          width: 2400
+          height: 1800
+      2.5K 5:4:
+        film_back:
+          width: 12.00
+          height: 9.60
+        image_size:
+          width: 2400
+          height: 1920
+      2.5K 4:1:
+        film_back:
+          width: 12.80
+          height: 3.20
+        image_size:
+          width: 2560
+          height: 640
+      2.5K 8:1:
+        film_back:
+          width: 12.80
+          height: 1.60
+        image_size:
+          width: 2560
+          height: 320
+      2K FF:
+        film_back:
+          width: 10.24
+          height: 5.40
+        image_size:
+          width: 2048
+          height: 1080
+      2K 2:1:
+        film_back:
+          width: 10.24
+          height: 5.12
+        image_size:
+          width: 2048
+          height: 1024
+      2K WS:
+        film_back:
+          width: 10.24
+          height: 4.32
+        image_size:
+          width: 2048
+          height: 864
+      2K HD:
+        film_back:
+          width: 9.60
+          height: 5.40
+        image_size:
+          width: 1920
+          height: 1080
+      2K 3:2:
+        film_back:
+          width: 9.60
+          height: 6.40
+        image_size:
+          width: 1920
+          height: 1280
+      2K 4:3:
+        film_back:
+          width: 9.60
+          height: 7.20
+        image_size:
+          width: 1920
+          height: 1440
+      2K 5:4:
+        film_back:
+          width: 9.60
+          height: 7.68
+        image_size:
+          width: 1920
+          height: 1536
+      2K 6:5:
+        film_back:
+          width: 6.48
+          height: 5.40
+        image_size:
+          width: 1296
+          height: 1080
+      2K 4:1:
+        film_back:
+          width: 10.24
+          height: 2.56
+        image_size:
+          width: 2048
+          height: 512
+      2K 8:1:
+        film_back:
+          width: 10.24
+          height: 1.28
+        image_size:
+          width: 2048
+          height: 256
+  B E 6K:
+    lenses: [1,2,3,4,5,6]
+    settings:
+      6K FF:
+        film_back:
+          width: 30.72
+          height: 15.80
+        image_size:
+          width: 6144
+          height: 3160
+      6K 2:1:
+        film_back:
+          width: 30.72
+          height: 15.36
+        image_size:
+          width: 6144
+          height: 3072
+      6K WS:
+        film_back:
+          width: 30.72
+          height: 12.96
+        image_size:
+          width: 6144
+          height: 2592
+      6K HD:
+        film_back:
+          width: 27.84
+          height: 15.66
+        image_size:
+          width: 5568
+          height: 3132
+      6K 3:2:
+        film_back:
+          width: 23.76
+          height: 15.80
+        image_size:
+          width: 4752
+          height: 3160
+      6K 6:5:
+        film_back:
+          width: 18.96
+          height: 15.80
+        image_size:
+          width: 3792
+          height: 3160
+      6K 4:1:
+        film_back:
+          width: 30.72
+          height: 7.68
+        image_size:
+          width: 6144
+          height: 1536
+      6K 8:1:
+        film_back:
+          width: 30.72
+          height: 3.84
+        image_size:
+          width: 6144
+          height: 768
+      5.5K FF:
+        film_back:
+          width: 28.00
+          height: 14.80
+        image_size:
+          width: 5600
+          height: 2960
+      5.5K 2:1:
+        film_back:
+          width: 28.00
+          height: 14.00
+        image_size:
+          width: 5600
+          height: 2800
+      5.5K WS:
+        film_back:
+          width: 28.00
+          height: 11.80
+        image_size:
+          width: 5600
+          height: 2360
+      5.5K HD:
+        film_back:
+          width: 26.40
+          height: 14.80
+        image_size:
+          width: 5280
+          height: 2960
+      5.5K 4:1:
+        film_back:
+          width: 28.16
+          height: 7.04
+        image_size:
+          width: 5632
+          height: 1408
+      5.5K 8:1:
+        film_back:
+          width: 28.16
+          height: 3.52
+        image_size:
+          width: 5632
+          height: 704
+      5K FF:
+        film_back:
+          width: 25.60
+          height: 13.50
+        image_size:
+          width: 5120
+          height: 2700
+      5K 2:1:
+        film_back:
+          width: 25.60
+          height: 12.80
+        image_size:
+          width: 5120
+          height: 2560
+      5K WS:
+        film_back:
+          width: 25.60
+          height: 10.80
+        image_size:
+          width: 5120
+          height: 2160
+      5K HD:
+        film_back:
+          width: 24.00
+          height: 13.50
+        image_size:
+          width: 4800
+          height: 2700
+      5K 6:5:
+        film_back:
+          width: 16.20
+          height: 13.50
+        image_size:
+          width: 3240
+          height: 2700
+      5K 4:1:
+        film_back:
+          width: 25.60
+          height: 6.40
+        image_size:
+          width: 5120
+          height: 1280
+      5K 8:1:
+        film_back:
+          width: 25.60
+          height: 3.20
+        image_size:
+          width: 5120
+          height: 640
+      4.5K FF:
+        film_back:
+          width: 23.04
+          height: 12.16
+        image_size:
+          width: 4608
+          height: 2432
+      4.5K 2:1:
+        film_back:
+          width: 23.04
+          height: 11.52
+        image_size:
+          width: 4608
+          height: 2304
+      4.5K WS:
+        film_back:
+          width: 23.04
+          height: 9.72
+        image_size:
+          width: 4608
+          height: 1944
+      4.5K HD:
+        film_back:
+          width: 21.60
+          height: 12.16
+        image_size:
+          width: 4320
+          height: 2432
+      4.5K 3:2:
+        film_back:
+          width: 21.60
+          height: 5.76
+        image_size:
+          width: 4320
+          height: 1152
+      4.5K 4:1:
+        film_back:
+          width: 23.04
+          height: 5.76
+        image_size:
+          width: 4608
+          height: 1152
+      4.5K 8:1:
+        film_back:
+          width: 23.04
+          height: 2.88
+        image_size:
+          width: 4608
+          height: 576
+      4K FF:
+        film_back:
+          width: 20.48
+          height: 10.80
+        image_size:
+          width: 4096
+          height: 2160
+      4K 2:1:
+        film_back:
+          width: 20.48
+          height: 10.24
+        image_size:
+          width: 4096
+          height: 2048
+      4K WS:
+        film_back:
+          width: 20.48
+          height: 8.64
+        image_size:
+          width: 4096
+          height: 1728
+      4K HD:
+        film_back:
+          width: 19.20
+          height: 10.80
+        image_size:
+          width: 3840
+          height: 2160
+      4K 6:5:
+        film_back:
+          width: 12.96
+          height: 10.80
+        image_size:
+          width: 2592
+          height: 2160
+      4K 3:2:
+        film_back:
+          width: 19.20
+          height: 12.80
+        image_size:
+          width: 3840
+          height: 2560
+      4K 4:3:
+        film_back:
+          width: 19.20
+          height: 14.40
+        image_size:
+          width: 3840
+          height: 2880
+      4K 5:4:
+        film_back:
+          width: 19.20
+          height: 15.36
+        image_size:
+          width: 3840
+          height: 3072
+      4K 4:1:
+        film_back:
+          width: 20.48
+          height: 5.12
+        image_size:
+          width: 4096
+          height: 1024
+      4K 8:1:
+        film_back:
+          width: 20.48
+          height: 2.56
+        image_size:
+          width: 4096
+          height: 512
+      3.5K FF:
+        film_back:
+          width: 17.92
+          height: 9.38
+        image_size:
+          width: 3584
+          height: 1876
+      3.5K 2:1:
+        film_back:
+          width: 17.92
+          height: 8.96
+        image_size:
+          width: 3584
+          height: 1792
+      3.5K WS:
+        film_back:
+          width: 17.92
+          height: 7.56
+        image_size:
+          width: 3584
+          height: 1512
+      3.5K HD:
+        film_back:
+          width: 16.80
+          height: 9.38
+        image_size:
+          width: 3360
+          height: 1876
+      3.5K 3:2:
+        film_back:
+          width: 16.80
+          height: 11.20
+        image_size:
+          width: 3360
+          height: 2240
+      3.5K 4:3:
+        film_back:
+          width: 16.80
+          height: 12.60
+        image_size:
+          width: 3360
+          height: 2520
+      3.5K 5:4:
+        film_back:
+          width: 16.80
+          height: 13.44
+        image_size:
+          width: 3360
+          height: 2688
+      3.5K 4:1:
+        film_back:
+          width: 17.92
+          height: 4.48
+        image_size:
+          width: 3584
+          height: 896
+      3.5K 8:1:
+        film_back:
+          width: 17.92
+          height: 2.24
+        image_size:
+          width: 3584
+          height: 448
+      3K FF:
+        film_back:
+          width: 15.36
+          height: 8.10
+        image_size:
+          width: 3072
+          height: 1620
+      3K 2:1:
+        film_back:
+          width: 15.36
+          height: 7.68
+        image_size:
+          width: 3072
+          height: 1536
+      3K WS:
+        film_back:
+          width: 15.36
+          height: 6.48
+        image_size:
+          width: 3072
+          height: 1296
+      3K HD:
+        film_back:
+          width: 14.40
+          height: 8.10
+        image_size:
+          width: 2880
+          height: 1620
+      3K 6:5:
+        film_back:
+          width: 9.72
+          height: 8.10
+        image_size:
+          width: 1944
+          height: 1620
+      3K 3:2:
+        film_back:
+          width: 14.40
+          height: 9.60
+        image_size:
+          width: 2880
+          height: 1920
+      3K 4:3:
+        film_back:
+          width: 14.40
+          height: 10.80
+        image_size:
+          width: 2880
+          height: 2160
+      3K 5:4:
+        film_back:
+          width: 14.40
+          height: 11.52
+        image_size:
+          width: 2880
+          height: 2304
+      3K 4:1:
+        film_back:
+          width: 15.36
+          height: 3.84
+        image_size:
+          width: 3072
+          height: 768
+      3K 8:1:
+        film_back:
+          width: 15.36
+          height: 1.92
+        image_size:
+          width: 3072
+          height: 384
+      2.5K FF:
+        film_back:
+          width: 12.80
+          height: 6.70
+        image_size:
+          width: 2560
+          height: 1340
+      2.5K 2:1:
+        film_back:
+          width: 12.80
+          height: 6.40
+        image_size:
+          width: 2560
+          height: 1280
+      2.5K WS:
+        film_back:
+          width: 12.80
+          height: 5.40
+        image_size:
+          width: 2560
+          height: 1080
+      2.5K HD:
+        film_back:
+          width: 12.00
+          height: 6.70
+        image_size:
+          width: 2400
+          height: 1340
+      2.5K 3:2:
+        film_back:
+          width: 12.00
+          height: 8.00
+        image_size:
+          width: 2400
+          height: 1600
+      2.5K 4:3:
+        film_back:
+          width: 12.00
+          height: 9.00
+        image_size:
+          width: 2400
+          height: 1800
+      2.5K 5:4:
+        film_back:
+          width: 12.00
+          height: 9.60
+        image_size:
+          width: 2400
+          height: 1920
+      2.5K 4:1:
+        film_back:
+          width: 12.80
+          height: 3.20
+        image_size:
+          width: 2560
+          height: 640
+      2.5K 8:1:
+        film_back:
+          width: 12.80
+          height: 1.60
+        image_size:
+          width: 2560
+          height: 320
+      2K FF:
+        film_back:
+          width: 10.24
+          height: 5.40
+        image_size:
+          width: 2048
+          height: 1080
+      2K 2:1:
+        film_back:
+          width: 10.24
+          height: 5.12
+        image_size:
+          width: 2048
+          height: 1024
+      2K WS:
+        film_back:
+          width: 10.24
+          height: 4.32
+        image_size:
+          width: 2048
+          height: 864
+      2K HD:
+        film_back:
+          width: 9.60
+          height: 5.40
+        image_size:
+          width: 1920
+          height: 1080
+      2K 3:2:
+        film_back:
+          width: 9.60
+          height: 6.40
+        image_size:
+          width: 1920
+          height: 1280
+      2K 4:3:
+        film_back:
+          width: 9.60
+          height: 7.20
+        image_size:
+          width: 1920
+          height: 1440
+      2K 5:4:
+        film_back:
+          width: 9.60
+          height: 7.68
+        image_size:
+          width: 1920
+          height: 1536
+      2K 6:5:
+        film_back:
+          width: 6.48
+          height: 5.40
+        image_size:
+          width: 1296
+          height: 1080
+      2K 4:1:
+        film_back:
+          width: 10.24
+          height: 2.56
+        image_size:
+          width: 2048
+          height: 512
+      2K 8:1:
+        film_back:
+          width: 10.24
+          height: 1.28
+        image_size:
+          width: 2048
+          height: 256
+Manufacturer C:
+  C5:
+    lenses: [1,2,3,4,5,6]
+    settings:
+      '16:9':
+        film_back:
+          width: 35.7886
+          height: 23.9014
+        image_size:
+          width: 1920
+          height: 1080
+  C7:
+    lenses: [1,2,3,4,5,6]
+    settings:
+      '16:9':
+        film_back:
+          width: 22.3012
+          height: 14.9098
+        image_size:
+          width: 1920
+          height: 1080
+  C500:
+    lenses: [1,2,3,4,5,6]
+    settings:
+      Full HD:
+        film_back:
+          width: 24.6
+          height: 13.8
+        image_size:
+          width: 1920
+          height: 1080
+      4K:
+        film_back:
+          width: 26.2
+          height: 13.8
+        image_size:
+          width: 4096
+          height: 2160
+

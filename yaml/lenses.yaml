@@ -1,0 +1,32 @@
+1:
+  name: Lens A
+  focal_length_sets: [12,14,16,18,21,25,27,32,35,40,50,65,75,100,135,150]
+  anamorphic: False
+2:
+  name: Lens B
+  focal_length_sets: [35,40,50]
+  anamorphic: True
+3:
+  name: Lens C
+  focal_length_sets: [24,32,40,50,65,75,100,135]
+  anamorphic: True
+4:
+  name: Lens D
+  focal_length_sets: [12,14,16,18,21,25,27,32,35,40,50,65,75,100,135,150,180,300]
+  anamorphic: False
+5:
+  name: Lens E
+  focal_length_sets: [21,24,27,30,35,50,65,85,100,128]
+  anamorphic: False
+6:
+  name: Lens F
+  focal_length_sets: [35,40,50,75,100]
+  anamorphic: True
+7:
+  name: Lens G
+  focal_length_sets: [4]
+  anamorphic: False
+8:
+  name: Lens H
+  focal_length_sets: [6.3, 8.5, 13]
+  anamorphic: False
