@@ -5,11 +5,11 @@ This is a production tool developed by Shirui Zhang.
 
 This tool runs in maya 2016.
 
-Create Camera Tool provides artist with a friendly UI with categorized real world camera data. User can easily look up a certain camera by "Manufacturer", "Model", "Setting" and also choose a compatible "Lens" with the selected camera body. It is very helpful for Lookdev artist who needs start their work by creating a maya camera which matches the one used in the live action shot.
+Create Camera Tool provides artist with a friendly UI of categorized real world camera data. User can easily look up a certain camera by "Manufacturer", "Model", "Setting" and also choose a compatible "Lens" with the selected camera body. It is very helpful for Lookdev artist who needs start their work by creating a maya camera which matches the one used in the live action shot.
 
 Data:
 The data used in this tool is stored in two yaml files. One contains camera body information, another contains lens data.
-*The yaml file which comes with the code has been modified in purpose and is only for tool demonstration.
+*The data in the yaml file which comes with the code has been modified and is only for tool demonstration.
 
 UI:
 The UI consists of Three parts.
